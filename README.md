@@ -1,4 +1,4 @@
-# Project Title
+# Simple Flask Server
 
 ## Table of Contents
 
